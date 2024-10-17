@@ -9,7 +9,6 @@ public class WebClientConfig {
 
     @Bean
     public WebClient tmdbWebClient() {
-        return WebClient.builder().baseUrl("https://api.themovied.org/3").build();
-
+        return WebClient.builder().baseUrl("https://api.themoviedb.org/3").build();
     }
 }

@@ -1,7 +1,3 @@
-Certainly! Here are the steps to set up your local macOS environment for developing your project with a **Java backend**, **React.js** web frontend, and **React Native** mobile app.
-
----
-
 ## **Prerequisites**
 
 - A Mac computer running macOS.
@@ -565,7 +561,3 @@ You have now:
 - **Develop your React.js frontend components and pages.**
 - **Build your React Native mobile app screens and navigation.**
 - **Implement authentication, database interactions, and API integrations.**
-
----
-
-If you encounter any issues during setup or need further assistance with specific steps, feel free to ask!
